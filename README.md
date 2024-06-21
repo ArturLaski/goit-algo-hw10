@@ -32,11 +32,12 @@ Calculate the value of the integral of a function using the Monte Carlo method. 
 
 ### Monte Carlo Method
 The Monte Carlo integration was performed by generating random points and estimating the area under the curve.
+![image](https://github.com/ArturLaski/goit-algo-hw10/assets/162509395/74491111-ca75-484d-b37f-33e3b05107bf)
+
 
 ### Results
-- Monte Carlo Integration result: [integral_mc]
-- SciPy Quad Integration result: [result_quad]
-- Difference: [abs(integral_mc - result_quad)]
+![image](https://github.com/ArturLaski/goit-algo-hw10/assets/162509395/dce267a7-cb0a-4d92-8ab1-b91436b4996a)
+
 
 ### Conclusion
 The results obtained from the Monte Carlo method were compared to those obtained using the `quad` function. The difference between the two results was minimal, demonstrating the accuracy of the Monte Carlo simulation for this particular function.
