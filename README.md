@@ -16,9 +16,8 @@ The company produces two types of beverages: "Lemonade" and "Fruit juice". Diffe
 Using PuLP, a model was created to determine how much Lemonade and Fruit Juice should be produced to maximize the total number of products while respecting the resource constraints.
 
 ### Results
-- Optimal number of Lemonade to produce: [result]
-- Optimal number of Fruit Juice to produce: [result]
-- Maximum production: [result]
+![image](https://github.com/ArturLaski/goit-algo-hw10/assets/162509395/12106288-79a1-4902-9e45-15188c3bb2cc)
+
 
 ## Task 2: Calculate the Definite Integral
 
